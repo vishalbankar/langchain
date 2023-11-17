@@ -10,9 +10,9 @@ The system is intelligent enough to generate accurate queries for given question
 https://github.com/vishalbankar/langchain/assets/71269939/4ac4c885-473c-46b3-a09a-56e1d953c348
 
 # database structure
-https://github.com/vishalbankar/langchain/blob/main/discount.png
-https://github.com/vishalbankar/langchain/blob/main/tees.png
-https://github.com/vishalbankar/langchain/blob/main/DB_tables.png
+![Local Image](https://github.com/vishalbankar/langchain/blob/main/discount.png)
+# https://github.com/vishalbankar/langchain/blob/main/tees.png
+# https://github.com/vishalbankar/langchain/blob/main/DB_tables.png
 
 
 # Project Highlights
