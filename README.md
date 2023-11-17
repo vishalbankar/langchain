@@ -9,6 +9,9 @@ The system is intelligent enough to generate accurate queries for given question
 # a short video presentation
 https://github.com/vishalbankar/langchain/assets/71269939/4ac4c885-473c-46b3-a09a-56e1d953c348
 
+# database structure
+
+
 # Project Highlights
 A t shirt store that sells Adidas, Nike, Van Heusen and Levi's t shirts
 Their inventory, sales and discounts data is stored in a MySQL database
