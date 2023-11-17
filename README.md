@@ -11,8 +11,8 @@ https://github.com/vishalbankar/langchain/assets/71269939/4ac4c885-473c-46b3-a09
 
 # database structure
 ![Local Image](https://github.com/vishalbankar/langchain/blob/main/discount.png)
-# https://github.com/vishalbankar/langchain/blob/main/tees.png
-# https://github.com/vishalbankar/langchain/blob/main/DB_tables.png
+![Local Image](https://github.com/vishalbankar/langchain/blob/main/tees.png)
+![Local Image](https://github.com/vishalbankar/langchain/blob/main/DB_tables.png)
 
 
 # Project Highlights
