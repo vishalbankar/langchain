@@ -6,3 +6,7 @@ This LLM project based on Google Palm and Langchain. We are building a system th
 
 The system is intelligent enough to generate accurate queries for given question and execute them on MySQL database
 
+# https://github.com/vishalbankar/langchain/blob/main/Tees_short.mp4
+
+
+
