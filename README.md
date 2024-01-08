@@ -18,7 +18,7 @@ https://github.com/vishalbankar/langchain/assets/71269939/4ac4c885-473c-46b3-a09
 # Project Highlights
 
 A t shirt store that sells Adidas, Nike, Van Heusen and Levi's t shirts
-Their inventory, sales and discounts data is stored in a MySQL database
+Their inventory, sales and discounts data is stored in a MySQL database 
 I have build an LLM based question and answer system that will use following,
  * Google Palm LLM
  * Hugging face embeddings
